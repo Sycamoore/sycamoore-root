@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://sycamoorecounseling.org/Sitemap.xml
+Allow: /favicon.png
